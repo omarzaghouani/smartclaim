@@ -1,5 +1,21 @@
 # Tracking
 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>SmartClaim</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #f5f5f5; padding: 2rem; }
+        h1 { color: #007bff; }
+        p { font-size: 1.2rem; }
+    </style>
+</head>
+<body>
+    <h1>Bienvenue sur SmartClaim</h1>
+    <p>Votre projet est maintenant publié sur GitHub Pages.</p>
+</body>
+</html>
 
 
 ## Getting started
